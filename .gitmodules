@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:weili108/weili108.github.io.git
+	branch = master
